@@ -36,8 +36,6 @@
 
 ##
 
-# OBSERVAÇÃO - Para rodar a aplicação é necessário ter o servidor rodando em máquina local, tendo em vista que não foi possível fazr o deploy do backend.
-
 ### Autor
 
 [Erlan Carvalho](https://github.com/Carvalho001)
